@@ -6,5 +6,6 @@ Bootcamp da DIO para desenvolvimento FullStack básico
 - HTML5
 - CSS3
 - JavaScript
-- React
-- Node
+- ReactJs
+- MySQL
+- NodeJs
